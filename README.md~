@@ -1,4 +1,4 @@
-Johnson Counter
+Johnson_Counter
 ===============
 
 Ultra Blinky
@@ -6,31 +6,24 @@ Ultra Blinky
 ####LEDs CREE PLM4B-BKW
 http://www.farnell.com/datasheets/1760209.pdf
 
-
 ####Shift register NXP 74HC4017D
 http://www.nxp.com/documents/data_sheet/74HC_HCT4017.pdf
 
-
 ####Logic buffer TI CY74FCT827CTSOC
 http://www.farnell.com/datasheets/474621.pdf
-
 farnell says SOCW package, but datasheet says SOIC... not sure
 
 ####Booster Sipex SP6641AEK-5.0
 http://www.farnell.com/datasheets/290931.pdf
 
-
 ####Schottky STMicroelectronics STPSO520Z
 http://www.farnell.com/datasheets/1700332.pdf
 
-
 ####Low ESR CAPs TDK C3225X5R1C226K250AA
 http://www.farnell.com/datasheets/1571323.pdf
-
 higher voltage than the app note, but in stock
 
 ####Inductor COILCRAFT XAL5050-223MEC
 http://www.farnell.com/datasheets/1681990.pdf
-
 couldn't find the one from the app note, but this seems to have similar specs
 
