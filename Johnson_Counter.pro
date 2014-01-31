@@ -1,4 +1,4 @@
-update=Wed 29 Jan 2014 21:17:46 NZDT
+update=Fri 31 Jan 2014 14:27:35 NZDT
 version=1
 last_client=eeschema
 [cvpcb]
@@ -50,7 +50,7 @@ version=1
 PageLayoutDescrFile=
 SubpartIdSeparator=0
 SubpartFirstId=65
-LibDir=
+LibDir=/home/aaron/KiCad
 NetFmtName=
 RptD_X=0
 RptD_Y=100
@@ -88,3 +88,4 @@ LibName28=opto
 LibName29=atmel
 LibName30=contrib
 LibName31=valves
+LibName32=CY74FCT827T
